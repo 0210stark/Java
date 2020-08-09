@@ -12,8 +12,8 @@ public class Main {
 
         //Byte
 
-//        byte byteMinValue = Byte.MIN_VALUE;
-//        byte byteMaxValue = Byte.MAX_VALUE;
+        byte byteMinValue = Byte.MIN_VALUE;
+        byte byteMaxValue = Byte.MAX_VALUE;
 //        System.out.println(byteMinValue);
 //        System.out.println(byteMaxValue);
 
@@ -25,6 +25,14 @@ public class Main {
         System.out.println(shortMaxValue);
 
         long myLongValue = Long.MAX_VALUE;
+
+        //Challenge
+
+        byte numByte = 1;
+        short shortnum =2;
+        int intnum = 3;
+        long longNum = 50000L +10L * (numByte + intnum + shortnum);
+        System.out.println(longNum);
 
     }
 }
