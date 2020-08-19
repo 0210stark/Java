@@ -29,6 +29,9 @@ public class Main {
         System.out.println(myLongMinValue);
         System.out.println(myLongMaxValue);
 
+        //Casting...
+        byte myNewByteValue = (byte) (myMaxByteValue/2);
+        short myNewShortValue =  (short) (myShortValue/2);
         
 
 
