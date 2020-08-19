@@ -20,7 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bffac33f-84a8-41a4-86eb-f53692211563" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,6 +51,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
@@ -66,7 +76,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1597845334573</updated>
-      <workItem from="1597845335606" duration="933000" />
+      <workItem from="1597845335606" duration="1156000" />
     </task>
     <servers />
   </component>
@@ -83,5 +93,23 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1878" height="280" key="GridCell.Tab.0.bottom" timestamp="1597848167543">
+      <screen x="0" y="23" width="1920" height="1027" />
+    </state>
+    <state width="1878" height="280" key="GridCell.Tab.0.bottom/0.23.1920.1027@0.23.1920.1027" timestamp="1597848167543" />
+    <state width="1878" height="280" key="GridCell.Tab.0.center" timestamp="1597848167543">
+      <screen x="0" y="23" width="1920" height="1027" />
+    </state>
+    <state width="1878" height="280" key="GridCell.Tab.0.center/0.23.1920.1027@0.23.1920.1027" timestamp="1597848167543" />
+    <state width="1878" height="280" key="GridCell.Tab.0.left" timestamp="1597848167542">
+      <screen x="0" y="23" width="1920" height="1027" />
+    </state>
+    <state width="1878" height="280" key="GridCell.Tab.0.left/0.23.1920.1027@0.23.1920.1027" timestamp="1597848167542" />
+    <state width="1878" height="280" key="GridCell.Tab.0.right" timestamp="1597848167543">
+      <screen x="0" y="23" width="1920" height="1027" />
+    </state>
+    <state width="1878" height="280" key="GridCell.Tab.0.right/0.23.1920.1027@0.23.1920.1027" timestamp="1597848167543" />
   </component>
 </project>

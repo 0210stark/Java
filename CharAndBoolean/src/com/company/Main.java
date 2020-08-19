@@ -7,6 +7,8 @@ public class Main {
         char myChar = 'D';
         char myUniCode = '\u00A9';
         System.out.println(myUniCode);
+        boolean isAdult = true;
+
 
     }
 }
