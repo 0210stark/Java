@@ -22,6 +22,13 @@ public class Main {
         System.out.println(myShortValue);
         System.out.println(myShorMaxValue);
 
+        //Long Values
+        long value = 100l;
+        long myLongMinValue = Long.MIN_VALUE;
+        long myLongMaxValue = Long.MAX_VALUE;
+        System.out.println(myLongMinValue);
+        System.out.println(myLongMaxValue);
+
         
 
 
