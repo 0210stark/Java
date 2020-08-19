@@ -32,7 +32,13 @@ public class Main {
         //Casting...
         byte myNewByteValue = (byte) (myMaxByteValue/2);
         short myNewShortValue =  (short) (myShortValue/2);
-        
+
+        //Challenge
+        byte rb = 1;
+        short rs = 2;
+        int ri = 3;
+        long longTotal = 5000L + 10L * (rb + rs + ri);
+        System.out.println(longTotal);
 
 
     }
