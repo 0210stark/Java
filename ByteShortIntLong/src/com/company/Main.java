@@ -22,6 +22,8 @@ public class Main {
         System.out.println(myShortValue);
         System.out.println(myShorMaxValue);
 
+        
+
 
     }
 }
