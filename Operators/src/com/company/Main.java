@@ -6,6 +6,9 @@ public class Main {
 	// write your code here
         int result = 1+2;
         //If then statement
-        
+        boolean isAlive = false;
+        if(isAlive) {
+
+        }
     }
 }
