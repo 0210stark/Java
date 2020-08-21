@@ -3,7 +3,7 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
-        // A Mie to Kilometer
+        // A Mile to Kilometer
 //        double Kilnmeters = (100 * 1.609344);
 //        int highScore = 50;
 //        if(highScore == 50){
@@ -24,16 +24,18 @@ public class Main {
 //            System.out.println("Need More Score to pass the test!");
 //        }else{
 //            System.out.println("No condition met!");
-    /*    boolean newGameOver = true;
-        int newScore  = 10000;
-        int newLevelCompleted =8;
-        int newBonus =10;
-        if(newGameOver){
-            int finalScore  = newScore + (newLevelCompleted * newBonus);
+
+
+        //Methods in Java
+        calculateScore(true,800,5,100);
+
+    }
+
+    public static void calculateScore(boolean gameOver, int score ,int levelCompleted,int bonus){
+        if(gameOver){
+            int finalScore  = score + (levelCompleted * bonus);
             System.out.println(finalScore);
-        }*/
-
-
+        }
     }
 
 
