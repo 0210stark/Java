@@ -10,8 +10,12 @@ public class Main {
 //            System.out.println("This is an expression");
 
         //Statements...
-        
+        int myVariable = 50;
+        myVariable++;
+        myVariable--;
+        System.out.println("This is a  test" + myVariable);
+
         }
 
     }
-}
+
