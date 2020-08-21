@@ -39,6 +39,10 @@ public class Main {
         }
         return -1;
     }
+    public static  void displayHighScorePosition(String name, int position){
+        System.out.println(name + " managed to get in position " + position + "on HighScorePosition");
+    }
+    
 
 
 }
