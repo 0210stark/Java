@@ -27,15 +27,17 @@ public class Main {
 
 
         //Methods in Java
-        calculateScore(true,800,5,100);
+        int score = calculateScore(false,800,5,100);
+        System.out.println(score);
 
     }
 
-    public static void calculateScore(boolean gameOver, int score ,int levelCompleted,int bonus){
+    public static int calculateScore(boolean gameOver, int score ,int levelCompleted,int bonus){
         if(gameOver){
             int finalScore  = score + (levelCompleted * bonus);
-            System.out.println(finalScore);
+            return  finalScore;
         }
+        return -1;
     }
 
 
