@@ -42,7 +42,7 @@ public class Main {
     public static  void displayHighScorePosition(String name, int position){
         System.out.println(name + " managed to get in position " + position + "on HighScorePosition");
     }
-    
+
 
 
 }
